@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio1/ProblemaUno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio1/Sumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio10/Convertir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio10/Problema10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio11/ConsumoTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio11/Problema11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio12/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio12/Problema12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio13/Convertir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio13/Problema13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio14/EDAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio14/Problema14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio15/Problema15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio15/Redondear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio16/Problema16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio16/Redondear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio17/Hipotenusa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio17/Problema17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio18/Problema18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio18/Recorrido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio19/Problema19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio19/Tiempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio2/Problema2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio20/Llamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio20/Problema20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio21/Conagua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio21/Problema21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio22/KW_H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio22/Problema22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio3/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio3/Problema3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio4/AreaCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio4/Problema4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio5/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio5/Problema5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio6/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio6/Problema6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio7/Convertir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio7/Problema7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio8/Distancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio8/Problema8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio9/Pago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Ejercicio9/Problema9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/p1/Manu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioUno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bdDHBC43tnQwZVLyu97JBarP9h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alguien/Desktop/fpoo-programario-1-ElvaM34&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/tmp/programario_1/programario_uno/src/main/java/edu/upvictoria/fpoo/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn exec:java" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="" />
+      <created>1685063768396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685063768396</updated>
+      <workItem from="1685063769814" duration="1903000" />
+    </task>
+    <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
+      <created>1685065857556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685065857556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se genera la estructura básica Maven del repositorio." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se genera la estructura básica Maven del repositorio." />
+  </component>
+</project>
